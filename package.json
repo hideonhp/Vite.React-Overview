@@ -15,12 +15,15 @@
     "@emotion/styled": "^11.11.0",
     "@fontsource/inter": "^5.0.15",
     "@fontsource/poppins": "^5.0.8",
+    "@types/react-is": "^18.2.4",
     "framer-motion": "^10.16.4",
+    "i18next": "^23.7.6",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "react-i18next": "^13.4.1"
   },
   "devDependencies": {
-    "@types/react": "^18.2.15",
+    "@types/react": "^18.2.37",
     "@types/react-dom": "^18.2.7",
     "@vitejs/plugin-react-swc": "^3.3.2",
     "eslint": "^8.53.0",
