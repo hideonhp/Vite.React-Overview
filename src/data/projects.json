@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "title": "Portfolio",
+    "description": "Competency profile",
+    "technologies": [
+      { "id": 1, "label": "React" },
+      { "id": 2, "label": "JavaScript" },
+      { "id": 3, "label": "ChakraUI" },
+      { "id": 4, "label": "Vite" }
+    ],
+    "images": ["src/assets/project/overview.png"]
+  }
+]

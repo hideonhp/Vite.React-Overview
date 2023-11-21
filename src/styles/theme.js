@@ -7,6 +7,22 @@ const colors = {
   },
   secondary: "#0F1B61",
   black: "#000000",
+
+  React: "#FF7308",
+  Appium: "#E72F09",
+  JavaScript: "#8f327b",
+  ChakraUI: "#31b03e",
+  Jmeter: "#ffcb6b",
+  Selenium: "#52b3e3",
+  Vite: "#949c3e",
+
+  //Cert
+  "Soft Skills": "#329ba8",
+  Mindset: "#a83290",
+  Knowledge: "#32a852",
+  Logic: "#942112",
+  Technical: "#a6819a",
+  "C#": "#cc19cf",
 };
 
 const fonts = {

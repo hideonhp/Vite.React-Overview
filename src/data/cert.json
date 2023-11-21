@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "ISTQB",
+    "description": "Software Testing Certification",
+    "technologies": [
+      { "id": 1, "label": "Soft Skills" },
+      { "id": 2, "label": "Mindset" },
+      { "id": 3, "label": "Knowledge" }
+    ],
+    "images": ["src/assets/certs/istqb-found.png"]
+  },
+  {
+    "id": 2,
+    "title": "Hackerrank",
+    "description": "Developer Certification",
+    "technologies": [
+      { "id": 1, "label": "Logic" },
+      { "id": 2, "label": "Technical" }
+    ],
+    "images": [
+      "src/assets/certs/JavaScript-inter.png",
+      "src/assets/certs/JavaScript-basic.png",
+      "src/assets/certs/sql-basic.png",
+      "src/assets/certs/sql-inter.png",
+      "src/assets/certs/sql-adv.png",
+      "src/assets/certs/rest-api.png",
+      "src/assets/certs/c-sharp-basic.png"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Microsoft",
+    "description": "Microsoft Certification",
+    "technologies": [{ "id": 1, "label": "C#" }],
+    "images": ["src/assets/certs/CSharp.png"]
+  }
+]
